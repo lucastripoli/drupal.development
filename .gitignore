@@ -1,0 +1,14 @@
+
+*.log
+*.sql
+drupal.development.dependences/*
+drupal.development.enviroment/*
+
+
+docroot/core/*
+docroot/vendor/* 
+docroot/autoload.php 
+docroot/composer.json 
+docroot/composer.lock 
+docroot/index.php 
+docroot/update.php 
